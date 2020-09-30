@@ -1,0 +1,29 @@
+h1{
+     text-align: center;
+    color: #BC8F8F;
+    font-size: 2rem;
+  }
+h2 {
+  text-align:center;
+  color: black;
+tamaño de fuente: 1rem;
+}
+  
+body {
+    color: black;
+    background-color: #FAF0E6;
+    font-family: calibri light;
+    background: linear-gradient;
+    height: 100;
+    margin: 0;
+    display: grid;
+    place-items: center;
+    margin-left: 20px;
+    }
+  footer{
+    background: silver;
+    font-family: calibri;
+    width: 100%;    
+    text-align: center;
+    font-size: 1rem;
+  }
